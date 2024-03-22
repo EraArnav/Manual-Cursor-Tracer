@@ -6,3 +6,5 @@ Following requirements must be fulfilled before runnning:
 3. numpy
 4. pyautogui
 5. Python 😁
+
+Run main.py if fulfilled.
